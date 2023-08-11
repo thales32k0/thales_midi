@@ -6,6 +6,8 @@ in JavaScript that I hadn't seen before. // Esse é meu terceiro projeto com HTM
 Foi criado uma bateria virtual para reproduzir alguns sons, um projeto bem simples que me fez usar algumas técnicas
 em JavaScript que eu ainda não havia visto.
 
+![Mid Preview](thales-mid.png)
+
 ## Funcionalidades // Functionalities
 
 - Reproduzir sons de uma bateria // Play drum sounds
