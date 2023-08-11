@@ -12,5 +12,6 @@ em JavaScript que eu ainda não havia visto.
 ## Modos de Uso ##
 
 Apenas clicar nos botões do display e criar seus ritmos!! 
+- Funciona em Mobile
 
                   Feito por Thales
