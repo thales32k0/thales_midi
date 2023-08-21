@@ -15,9 +15,9 @@ em JavaScript que eu ainda não havia visto.
 ## 🔨 Functionalities // Funcionalidades 🔨
 
 - `Functionalities 1`: Reproduzir sons de uma bateria // Play drum sounds
-- 
+ 
 - `Functionalities 2`: Se divertir // Have fun 😅😅
-- 
+ 
 - `Functionalities 3`: Interface de usuário intuitiva e amigável. // Intuitive and friendly user interface.
 
 ## 🛠️ How to use? // Como usar? 🛠️ 
