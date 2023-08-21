@@ -21,7 +21,7 @@ em JavaScript que eu ainda não havia visto.
 
 ## Modos de Uso ##
 
-`Apenas clicar nos botões do display e criar seus ritmos!! // Just click on the display buttons and create your rhythms!!`
+`Just click on the display buttons and create your rhythms!! // Apenas clicar nos botões do display e criar seus ritmos!!`
 
 # Developer
  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/89024257?v=4" width=115><br><sub>Thales Eduardo Pedro</sub>](https://github.com/thales32k0)
