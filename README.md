@@ -1,6 +1,6 @@
 # 🎵 Thales - Midi 🎵
 <p align="center">
-<img ![Static Badge](https://img.shields.io/badge/Status-Complete-green20%25)
+<img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
 
 This is my third project with HTML and CSS and now I'm venturing into JavaScript,
