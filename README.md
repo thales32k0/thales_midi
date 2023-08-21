@@ -1,4 +1,5 @@
 # 🎵 Thales - Midi 🎵
+
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
@@ -11,7 +12,7 @@ in JavaScript that I hadn't seen before. // Esse é meu terceiro projeto com HTM
 Foi criado uma bateria virtual para reproduzir alguns sons, um projeto bem simples que me fez usar algumas técnicas
 em JavaScript que eu ainda não havia visto.
 
-## Funcionalidades // Functionalities
+## 🔨 Functionalities // Funcionalidades 🔨
 
 - `Functionalities 1`: Reproduzir sons de uma bateria // Play drum sounds
 - 
@@ -19,7 +20,7 @@ em JavaScript que eu ainda não havia visto.
 - 
 - `Functionalities 3`: Interface de usuário intuitiva e amigável. // Intuitive and friendly user interface.
 
-## Modos de Uso ##
+## 🛠️ How to use? // Como usar? 🛠️ 
 
 `Just click on the display buttons and create your rhythms!! // Apenas clicar nos botões do display e criar seus ritmos!!`
 
