@@ -22,7 +22,7 @@ em JavaScript que eu ainda não havia visto.
 
 ## 🛠️ How to use? // Como usar? 🛠️ 
 
-`Access link // Acesse o link` : https://thales-midi.vercel.app/
+`Access the link // Acesse o link` : https://thales-midi.vercel.app/
 
 `Just click on the display buttons and create your rhythms!! // Apenas clicar nos botões do display e criar seus ritmos!!`
 
