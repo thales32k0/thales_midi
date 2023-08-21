@@ -1,4 +1,7 @@
 # 🎵 Thales - Midi 🎵
+<p align="center">
+<img ![Static Badge](https://img.shields.io/badge/Status-Complete-green20%25)
+</p>
 
 This is my third project with HTML and CSS and now I'm venturing into JavaScript,
 A virtual drum was created to reproduce some sounds, a very simple project that made me use some techniques
