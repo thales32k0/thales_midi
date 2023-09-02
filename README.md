@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Status-Complete-green20%25" alt="Static Badge>
 </p>
 
+---
  
 ![Mid Preview](thales-mid.png)
  
